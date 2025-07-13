@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This is DIFFERENT content from the main branch.
+
+
+WE TOOK BOTH FOR UNDERSTANDING PURPOSE
+
+
+This is the NEW content from the feature branch.
+>>>>>>> feature/conflict-demo
